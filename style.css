@@ -31,8 +31,11 @@ nav {
 nav a {
   color: #e87c2b;
   text-decoration: none;
-  margin: 0 15px;
+  margin: 0 10px;
   font-size: 16px;
+  border: 2px solid #e87c2b;
+  padding: 8px 18px;
+  border-radius: 6px;
 }
 section {
   padding: 60px 20px;
@@ -77,4 +80,37 @@ section p {
   font-size: 18px;
   color: #c9a97a;
   margin-bottom: 15px;
+}
+#catering a {
+  color: #e87c2b;
+  font-size: 22px;
+  font-weight: bold;
+  text-decoration: none;
+}
+#hours {
+  background-color: #2b1600;
+  border-radius: 12px;
+}
+
+#hours p {
+  background-color: #3d1f08;
+  padding: 12px 15px;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+#hours p {
+  border-left: 4px solid #e87c2b;
+}
+#contact {
+  background-color: #2b1600;
+  border-radius: 12px;
+  text-align: center;
+}
+
+#contact p {
+  background-color: #3d1f08;
+  padding: 12px 15px;
+  margin-bottom: 8px;
+  border-radius: 6px;
+  font-size: 18px;
 }
