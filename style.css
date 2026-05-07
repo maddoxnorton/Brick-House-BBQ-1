@@ -136,3 +136,11 @@ section p {
 #order a:hover {
   background-color: #ff9040;
 }
+section h3 {
+  font-size: 22px;
+  color: #c9a97a;
+  margin-top: 25px;
+  margin-bottom: 10px;
+  border-bottom: 2px solid #3d1f08;
+  padding-bottom: 8px;
+}
