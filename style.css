@@ -115,3 +115,24 @@ section p {
   border-radius: 6px;
   font-size: 18px;
 }
+#order {
+  background-color: #2b1600;
+  border-radius: 12px;
+  text-align: center;
+}
+
+#order a {
+  display: inline-block;
+  background-color: #e87c2b;
+  color: #1a0f00;
+  text-decoration: none;
+  padding: 14px 30px;
+  border-radius: 8px;
+  font-size: 18px;
+  font-weight: bold;
+  margin: 10px;
+}
+
+#order a:hover {
+  background-color: #ff9040;
+}
